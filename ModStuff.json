@@ -1,0 +1,69 @@
+[
+  {
+    "name": "AirJump",
+    "author": "fchb1239",
+    "version": "1.0.4",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "fchb1239/AirJump",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.4/AirJump.zip"
+  },
+  {
+    "name": "BepInEx",
+    "author": "BepInEx Team",
+    "version": "5.4.22",
+    "git_path": "BepInEx/BepInEx",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip"
+  },
+  {
+    "name": "Bepinject",
+    "author": "Auros",
+    "version": "1.0.1",
+    "dependencies": [
+      "Extenject"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
+  },
+  {
+    "name": "Computer Interface",
+    "author": "Toni Macaroni",
+    "version": "1.6.1",
+    "dependencies": [
+      "Bepinject"
+    ],
+    "git_path": "ToniMacaroni/ComputerInterface",
+    "group": "Libraries",
+    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
+  },
+  {
+    "name": "Newtonsoft.JSON",
+    "author": "James Newton-King",
+    "version": "12.0.3",
+    "git_path": "legoandmars/Newtonsoft.Json",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+  },
+  {
+    "name": "TMPLoader",
+    "author": "A Haunted Army",
+    "version": "1.0.2",
+    "git_path": "AHauntedArmy/TMPLoader",
+    "group": "Libraries",
+    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
+  },
+  {
+    "name": "Utilla",
+    "author": "Bobbie",
+    "version": "1.6.11",
+    "git_path": "legoandmars/Utilla",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.11/Utilla.zip"
+  }
+]
