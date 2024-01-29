@@ -1,10 +1,10 @@
 [
   {
-    "name" : "Core",
+    "name" : "Cheats/Utils",
     "rank" : 0
   },
   {
-    "name" : "Cheats/Utils",
+    "name" : "Libraries",
     "rank" : 1
   }
 ]
