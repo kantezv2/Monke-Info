@@ -62,5 +62,13 @@
     "git_path": "legoandmars/Utilla",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.11/Utilla.zip"
+  },
+  {
+    "name": "Time Changer",
+    "author": "Kante",
+    "version": "0.0.1",
+    "git_path": "kantezv2/timechanger",
+    "group": "Cheats/Utilites",
+    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.11/Utilla.zip"
   }
 ]
